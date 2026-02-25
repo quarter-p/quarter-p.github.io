@@ -2,21 +2,15 @@
 layout: homepage
 ---
 
-## About Me
-
-I am a Ph.D. student at ...
-
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **CyberCrime** / **Web Application Security** / **AI Security** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2026]** Our paper about SEO is accepted to WWW 2026.
+- **[Jan. 2026]** Our paper about Advertising is accepted to Usenix Security 2026.
+- **[Nov. 2025]** Join as the Program Committee (PC) of WWW 2026 (The ACM Web Conference 2026).
 
 {% include_relative _includes/publications.md %}
 

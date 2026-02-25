@@ -1,22 +1,73 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense"
+    authors: "Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang"
+    conference_short: "WWW"
+    conference: "The ACM Web Conference (WWW), 2025"
+    year: "2025"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3696410.3714632"
+    # code: ""
+    # bibtex: ""
+    # page: "https://dl.acm.org/doi/10.1145/3696410.3714632"
+    # image: ""
+    # notes: ""
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  # - title: "Prison: Unmasking the criminal potential of large language models"
+  #   authors: "X. Wu, Guanhong Hong, Pei Chen, Y. Chen, Xiaopan Pan, ..."
+  #   conference_short: "arXiv"
+  #   conference: "arXiv preprint"
+  #   year: "2025"
+  #   pdf: "https://arxiv.org/pdf/2506.16150.pdf"
+  #   code: ""
+  #   bibtex: ""
+  #   page: "https://arxiv.org/abs/2506.16150"
+  #   image: ""
+  #   notes: ""
+
+  # - title: "MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent"
+  #   authors: "M. Wu, Pei Chen, Guanhong Hong, B. An, J. Chen, B. Wan, ..."
+  #   conference_short: "arXiv"
+  #   conference: "arXiv preprint"
+  #   year: "2025"
+  #   pdf: "https://arxiv.org/pdf/2512.15144.pdf"
+  #   code: ""
+  #   bibtex: ""
+  #   page: "https://arxiv.org/abs/2512.15144"
+  #   image: ""
+  #   notes: ""
+
+  - title: "Fast Play, Fast Profit: Unveiling the Prevalence of Aggressive Ad Behaviors in Mini-Game"
+    authors: "Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, Yuan Zhang, Min Yang, Ziru Zhao, Yuanpeng Zhu, Tao Su"
+    conference_short: "SaTS"
+    conference: "ACM Workshop on Security and Privacy of AI-Empowered Mobile Super Apps (SaTS), 2025"
+    year: "2025"
+    pdf: "https://yuanxzhang.github.io/paper/minigame-sats25.pdf"
+    # code: ""
+    # bibtex: ""
+    # page: "https://doi.org/10.1145/3733824.3764870"
+    # image: ""
+    # notes: ""
+
+  - title: "Underground Application Collection Method Based on Spiking Traffic Analysis (一种基于突变流量的在野黑产应用采集方法)"
+    authors: "Pei Chen, Geng Hong, Mengying Wu, Jinsong Chen, Haixin Duan, Min Yang"
+    # conference_short: "Journal of Software"
+    conference: "Journal of Software (软件学报), 2024"
+    year: "2024"
+    pdf: "https://www.jos.org.cn/jos/article/pdf/7122"
+    # code: ""
+    bibtex: ./assets/bibtex/pei24spiking.txt
+    # page: "http://www.jos.org.cn/1000-9825/7122.htm"
+    # image: ""
+    # notes: ""
+
+  - title: "Understanding and Detecting Abused Image Hosting Modules as Malicious Services"
+    authors: "Geng Hong, Mengying Wu, Pei Chen, Xiaojing Liao, Guoyi Ye, Min Yang"
+    conference_short: "CCS"
+    conference: "ACM SIGSAC Conference on Computer and Communications Security (CCS), 2023"
+    year: "2023"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3576915.3623143"
+    # code: ""
+    # bibtex: ""
+    # page: "https://dl.acm.org/doi/10.1145/3576915.3623143"
+    # image: ""
+    # notes: ""
