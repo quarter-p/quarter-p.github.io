@@ -49,8 +49,12 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if site.school_name %}
+        <a href="{{ site.school_link }}" rel="noopener"><autocolor>{{ site.school_name }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.lab_name %}
+        <a href="{{ site.lab_link }}" rel="noopener"><autocolor>{{ site.lab_name }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
