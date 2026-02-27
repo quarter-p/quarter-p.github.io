@@ -2,11 +2,10 @@
   display: flex; 
   align-items: center;}
 
-/* Theme variables: easier to adjust site colors (accent = 深绿色) */
 :root {
-  --bg: #faefe1;
+  --bg: #fefcf7;
   --text: #0b3d17;
-  --accent: #006400; /* 深绿色 */
+  --accent: #006400;
   --muted: #777777;
 }
 
@@ -14,7 +13,7 @@
   :root {
     --bg: #161613;
     --text: #e6efe6;
-    --accent: #0fa46a; /* 暗色模式下的高亮（可选稍亮） */
+    --accent: #0fa46a;
   }
 }
 

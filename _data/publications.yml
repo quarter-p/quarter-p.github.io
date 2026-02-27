@@ -1,7 +1,8 @@
 main:
 
-  - title: "Prison: Unmasking the Criminal Potential of Large Language Models"
+  - title: "PRISON: Unmasking the Criminal Potential of Large Language Models"
     authors: "Xinyi Wu, Geng Hong, Pei Chen, Yueyue Chen, Xudong Pan, Min Yang"
+    category: "conference"
     conference_short: "ICLR"
     conference: "The International Conference on Learning Representations (ICLR), 2026"
     year: "2026"
@@ -10,6 +11,7 @@ main:
 
   - title: "Unveiling the Resilience of LLM-Enhanced Search Engines Against Black-Hat SEO Manipulation"
     authors: "Pei Chen, Geng Hong, Xinyi Wu, Mengying Wu, Zixuan Zhu, Mingxuan Liu, Baojun Liu, Mi Zhang, Min Yang"
+    category: "conference"
     conference_short: "WWW"
     conference: "The ACM Web Conference (WWW), 2026"
     year: "2026"
@@ -18,6 +20,7 @@ main:
   
   - title: "When Fun Turns Toxic: A First Look at Aggressive Advertising in Mini-games"
     authors: "Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, Min Yang, Ziru Zhao, Yuanpeng Zhu, Tao Su"
+    category: "conference"
     conference_short: "Security"
     conference: "The 35th USENIX Security Symposium (USENIX Security), 2026"
     year: "2026"
@@ -26,6 +29,7 @@ main:
 
   - title: "You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense"
     authors: "Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang"
+    category: "conference"
     conference_short: "WWW"
     conference: "The ACM Web Conference (WWW), 2025"
     year: "2025"
@@ -34,6 +38,7 @@ main:
 
   - title: "Fast Play, Fast Profit: Unveiling the Prevalence of Aggressive Ad Behaviors in Mini-Game"
     authors: "Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, Yuan Zhang, Min Yang, Ziru Zhao, Yuanpeng Zhu, Tao Su"
+    category: "workshop"
     conference_short: "SaTS"
     conference: "ACM Workshop on Security and Privacy of AI-Empowered Mobile Super Apps (SaTS), 2025"
     year: "2025"
@@ -42,6 +47,7 @@ main:
 
   - title: "Underground Application Collection Method Based on Spiking Traffic Analysis (一种基于突变流量的在野黑产应用采集方法)"
     authors: "Pei Chen, Geng Hong, Mengying Wu, Jinsong Chen, Haixin Duan, Min Yang"
+    category: "journal"
     conference_short: "IJSI"
     conference: "Journal of Software (软件学报), 2024"
     year: "2024"
@@ -51,6 +57,7 @@ main:
 
   - title: "Understanding and Detecting Abused Image Hosting Modules as Malicious Services"
     authors: "Geng Hong, Mengying Wu, Pei Chen, Xiaojing Liao, Guoyi Ye, Min Yang"
+    category: "conference"
     conference_short: "CCS"
     conference: "ACM SIGSAC Conference on Computer and Communications Security (CCS), 2023"
     year: "2023"
