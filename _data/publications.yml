@@ -15,8 +15,8 @@ main:
     conference_short: "WWW"
     conference: "The ACM Web Conference (WWW), 2026"
     year: "2026"
-    pdf: "https://ghong.site/papers/www26-llmseo.pdf"
-    page: "https://www2026.thewebconf.org"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792399"
+    page: "https://dl.acm.org/doi/10.1145/3774904.3792399"
   
   - title: "When Fun Turns Toxic: A First Look at Aggressive Advertising in Mini-games"
     authors: "Pei Chen, Geng Hong, Yicheng Qin, Huazhe Wang, Mengying Wu, Min Yang, Ziru Zhao, Yuanpeng Zhu, Tao Su"
@@ -24,8 +24,8 @@ main:
     conference_short: "Security"
     conference: "The 35th USENIX Security Symposium (USENIX Security), 2026"
     year: "2026"
-    pdf: "https://ghong.site/papers/sec26-minigame.pdf"
-    page: "https://www.usenix.org/conference/usenixsecurity26"
+    pdf: "https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_chen-pei.pdf"
+    page: "https://www.usenix.org/conference/usenixsecurity26/presentation/chen-pei"
 
   - title: "You Can't Eat Your Cake and Have It Too: The Performance Degradation of LLMs with Jailbreak Defense"
     authors: "Wuyuao Mai, Geng Hong, Pei Chen, Xudong Pan, Baojun Liu, Yuan Zhang, Haixin Duan, Min Yang"
