@@ -1,5 +1,7 @@
 # Basic Information 
 title: Pei Chen
+given_name: Pei
+family_name: Chen
 position: Ph.D. Candidate
 affiliation: Fudan University
 email: peichen19 [AT] fudan.edu.cn
@@ -10,9 +12,17 @@ lab_link: "https://security.fudan.edu.cn"
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: academic, cybersecurity, aritificial intelligence, ai security, web security
+keywords: academic, cybersecurity, artificial intelligence, ai security, web security
 description: An academic personal homepage of Pei Chen
 canonical: https://quarter-p.github.io/
+url: https://quarter-p.github.io
+baseurl: ""
+lang: en-US
+og_locale: en_US
+research_interests:
+  - Cybercrime
+  - Web Application Security
+  - AI Security
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -26,6 +36,9 @@ orcid: https://orcid.org/0009-0001-8088-316X
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/look.jpeg
+social_image: /assets/img/look.jpeg
+social_image_width: 200
+social_image_height: 200
 favicon: ./assets/img/look-round.png
 favicon_dark: ./assets/img/look-dark.png
 
@@ -59,4 +72,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-  - html_source_file/

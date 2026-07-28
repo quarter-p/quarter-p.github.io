@@ -1,0 +1,15 @@
+main:
+
+  - name: "MCPZoo"
+    image: "./assets/img/projects/mcpzoo.jpg"
+    image_alt: "MCPZoo project homepage showing its runnable MCP server repository"
+    description: "A continuously growing repository that collects MCP servers from diverse sources and turns them into unified, runnable samples for ecosystem measurement and security research."
+    website: "http://security.fudan.edu.cn/zoo"
+    paper: "https://arxiv.org/abs/2512.15144"
+
+  - name: "AgentGuard"
+    image: "./assets/img/projects/agentguard.jpg"
+    image_alt: "AgentGuard protection across the AI agent lifecycle"
+    description: "A zero-trust security foundation that integrates with existing agent frameworks and applies configurable safeguards across LLM calls and tool execution, with runtime monitoring and post-hoc auditing."
+    website: "https://whitzard.tech/AgentGuard"
+    code: "https://github.com/WhitzardAgent/AgentGuard"

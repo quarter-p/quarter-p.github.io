@@ -8,11 +8,14 @@ layout: homepage
 
 ## News
 
-- **[Jan. 2026]** Our paper about criminal potential of LLM is accepted to ICLR 2026.
-- **[Jan. 2026]** Our paper about Black-hat SEO on LLMSE is accepted to WWW 2026.
-- **[Dec. 2025]** Our paper about Aggressive Advertising in Mini-Game is accepted to Usenix Security 2026.
-- **[Nov. 2025]** Join as a member of the Program Committee (PC) of WWW 2026 (The ACM Web Conference 2026).
+- **[Jul. 2026]** Happy to join the Program Committee for USENIX Security 2027!
+- **[Jan. 2026]** Our paper on the criminal potential of LLMs has been accepted to ICLR 2026.
+- **[Jan. 2026]** Our paper on black-hat SEO attacks against LLM-enhanced search engines has been accepted to WWW 2026.
+- **[Dec. 2025]** Our paper on aggressive advertising in mini-games has been accepted to USENIX Security 2026.
+- **[Nov. 2025]** Happy to join the Program Committee for The ACM Web Conference 2026 (WWW 2026)!
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/services.md %}

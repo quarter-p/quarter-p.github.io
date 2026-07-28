@@ -42,3 +42,33 @@
 
 </ol>
 </div>
+
+<h2 id="preprints" style="margin: 2px 0px -15px;">Preprints</h2>
+
+<div class="publications">
+<ol class="bibliography">
+
+{% for link in site.data.publications.preprints %}
+  <li>
+  <div class="pub-row">
+    <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
+        <div class="author">{{ link.authors | replace: 'Pei Chen', '<strong>Pei Chen</strong>' | raw }}</div>
+        <div class="periodical"><em>{{ link.conference }}</em>
+        </div>
+      <div class="links">
+        {% if link.pdf %}
+        <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        {% endif %}
+        {% if link.code %}
+        <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  </li>
+
+{% endfor %}
+
+</ol>
+</div>

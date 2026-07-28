@@ -63,3 +63,29 @@ main:
     year: "2023"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3576915.3623143"
     page: "https://dl.acm.org/doi/10.1145/3576915.3623143"
+
+preprints:
+
+  - title: "FlowGuard: From Signals to Evidence for MCP Security Detection"
+    authors: "Baichao An, Pei Chen, Geng Hong, Yueyue Chen, Mengying Wu"
+    category: "preprint"
+    conference: "arXiv preprint, 2026"
+    year: "2026"
+    pdf: "https://arxiv.org/pdf/2607.14754"
+    page: "https://arxiv.org/abs/2607.14754"
+
+  - title: "Rethinking MCP Security: A Large-Scale Study of Runtime MCP Servers and Security Scanner Reliability"
+    authors: "Pei Chen, Baichao An, Mengying Wu, Binwang Wan, Geng Hong, Jinsong Chen, Xudong Pan, Jiarun Dai, Min Yang"
+    category: "preprint"
+    conference: "arXiv preprint, 2026"
+    year: "2026"
+    pdf: "https://arxiv.org/pdf/2607.11086"
+    page: "https://arxiv.org/abs/2607.11086"
+
+  - title: "MCPZoo: A Large-Scale Dataset of Runnable Model Context Protocol Servers for AI Agent"
+    authors: "Mengying Wu, Pei Chen, Geng Hong, Baichao An, Jinsong Chen, Binwang Wan, Xudong Pan, Jiarun Dai, Min Yang"
+    category: "preprint"
+    conference: "arXiv preprint, 2025"
+    year: "2025"
+    pdf: "https://arxiv.org/pdf/2512.15144"
+    page: "https://arxiv.org/abs/2512.15144"
