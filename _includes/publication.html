@@ -1,0 +1,25 @@
+{% assign publication = include.publication %}
+<li class="publication">
+  <article>
+    <div class="publication-heading">
+    <div class="publication-title-content">
+    <h3 class="title">{% if publication.page %}<a href="{{ publication.page }}">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</h3>
+    <span class="links">
+      {% if publication.pdf %}<a href="{{ publication.pdf }}" class="btn" target="_blank" rel="noopener noreferrer">PDF</a>{% endif %}
+      {% if publication.pdf_cn %}<a href="{{ publication.pdf_cn }}" class="btn" target="_blank" rel="noopener noreferrer">PDF · 中文</a>{% endif %}
+      {% if publication.pdf_en %}<a href="{{ publication.pdf_en }}" class="btn" target="_blank" rel="noopener noreferrer">PDF · EN</a>{% endif %}
+      {% if publication.code %}<a href="{{ publication.code }}" class="btn" target="_blank" rel="noopener noreferrer">Code</a>{% endif %}
+      {% if publication.bibtex %}<a href="{{ publication.bibtex }}" class="btn" target="_blank" rel="noopener noreferrer">BibTeX</a>{% endif %}
+      {% if publication.notes %}<span class="publication-note">{{ publication.notes }}</span>{% endif %}
+      {% if publication.others %}{{ publication.others }}{% endif %}
+    </span>
+    </div>
+    <div class="publication-meta">
+      {% unless publication.category == 'preprint' %}<span class="venue" title="{{ publication.conference | escape }}">{% if publication.conference_short == 'Security' %}USENIX Security{% elsif publication.conference_short %}{{ publication.conference_short }}{% else %}{{ publication.conference }}{% endif %}</span>{% endunless %}
+      <span class="publication-year">{{ publication.year }}</span>
+    </div>
+    </div>
+    <div class="conference">{{ publication.conference }}{% if publication.ccf_rank or publication.indexing %} <span class="venue-recognition">({% if publication.ccf_rank %}CCF-{{ publication.ccf_rank }}{% if publication.indexing %} · {% endif %}{% endif %}{% if publication.indexing %}{{ publication.indexing | join: ' · ' }}{% endif %})</span>{% endif %}{% if publication.venue_note %} <span class="venue-recognition">({{ publication.venue_note }})</span>{% endif %}</div>
+    <div class="author">{{ publication.authors | replace: 'Pei Chen', '<strong>Pei Chen</strong>' }}</div>
+  </article>
+</li>
