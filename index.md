@@ -4,6 +4,7 @@ layout: homepage
 
 ## News
 
+- **[Sep. 2026]** Our measurement study on AI search has been accepted to NDSS 2027.
 - **[Sep. 2026]** Our paper on real-world threat analysis of MSSO has been accepted to CCS 2026.
 - **[Jul. 2026]** Happy to join the Program Committee for USENIX Security 2027!
 - **[Jan. 2026]** Our paper on the criminal potential of LLMs has been accepted to ICLR 2026.

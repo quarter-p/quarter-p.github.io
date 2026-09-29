@@ -1,5 +1,13 @@
 main:
 
+  - title: "From Public Posts to AI-Search Citations: Measuring the Fragility of AI Search"
+    authors: "Qi Liu, Geng Hong, Xinyang Zhang, Pei Chen, Yutong Li, Min Yang"
+    category: "conference"
+    conference_short: "NDSS"
+    conference: "Network and Distributed System Security Symposium"
+    ccf_rank: "A"
+    year: "2027"
+
   - title: "One Click to Leak: Characterizing the Real-World Usage and Threat Impact of MNO-based Single Sign-On Websites"
     authors: "Jiasheng Huang, Mingxuan Liu, Pei Chen, Baojun Liu, Yiming Zhang, Geng Hong, Zhenrui Zhang, Hai Yang, Haixin Duan, Hui Jiang"
     category: "conference"
