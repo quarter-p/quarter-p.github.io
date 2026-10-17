@@ -3,17 +3,19 @@
   align-items: center;}
 
 :root {
-  --bg: #fefcf7;
-  --text: #0b3d17;
-  --accent: #006400;
-  --muted: #777777;
+  --bg: #ffffff;
+  --text: #2d3038;
+  --accent: #2c608e;
+  --accent-hover: #1f486f;
+  --muted: #666a73;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #161613;
-    --text: #e6efe6;
-    --accent: #0fa46a;
+    --bg: #1a1d22;
+    --text: #e8ebef;
+    --accent: #a9c0dc;
+    --accent-hover: #c7d7e8;
   }
 }
 
@@ -24,7 +26,7 @@ body {
 }
 
 a { color: var(--accent); text-decoration: none; }
-a:hover { color: #004b00; }
+a:hover { color: var(--accent-hover); }
 
 h1, h2, h3 { color: var(--accent); }
 
@@ -634,7 +636,7 @@ footer {
   gap:1.1rem;
   align-items:center;
   padding:0.9rem;
-  border:1px solid rgba(0, 100, 0, 0.18);
+  border:1px solid rgba(44, 96, 142, 0.18);
   border-radius:10px;
   background:rgba(255, 255, 255, 0.35);
 }
@@ -679,7 +681,7 @@ footer {
 
 @media (prefers-color-scheme: dark) {
   .project-card {
-    border-color:rgba(15, 164, 106, 0.35);
+    border-color:rgba(169, 192, 220, 0.32);
     background:rgba(255, 255, 255, 0.025);
   }
 }

@@ -1,15 +1,19 @@
 main:
 
   - name: "MCPZoo"
-    image: "./assets/img/projects/mcpzoo.jpg"
+    image: "/assets/img/projects/mcpzoo.jpg"
     image_alt: "MCPZoo project homepage showing its runnable MCP server repository"
+    image_alt_zh: "MCPZoo 项目主页，展示可运行的 MCP 服务器仓库"
     description: "A continuously growing repository that collects MCP servers from diverse sources and turns them into unified, runnable samples for ecosystem measurement and security research."
+    description_zh: "一个持续扩展的 MCP 服务器仓库，从多种来源收集 MCP 服务器，并转化为统一、可运行的样本，用于生态测量与安全研究。"
     website: "http://security.fudan.edu.cn/zoo"
     paper: "https://arxiv.org/abs/2512.15144"
 
   - name: "AgentGuard"
-    image: "./assets/img/projects/agentguard.jpg"
+    image: "/assets/img/projects/agentguard.jpg"
     image_alt: "AgentGuard protection across the AI agent lifecycle"
+    image_alt_zh: "AgentGuard 在 AI 智能体生命周期中的防护"
     description: "A zero-trust security foundation that integrates with existing agent frameworks and applies configurable safeguards across LLM calls and tool execution, with runtime monitoring and post-hoc auditing."
+    description_zh: "一个零信任安全基础框架，可与现有智能体框架集成，在 LLM 调用和工具执行过程中应用可配置的安全防护，并支持运行时监控与事后审计。"
     website: "https://whitzard.tech/AgentGuard"
     code: "https://github.com/WhitzardAgent/AgentGuard"

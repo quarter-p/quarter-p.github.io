@@ -1,14 +1,15 @@
 (() => {
   const navigation = document.querySelector('.section-nav');
   if (!navigation) return;
-  const links = Array.from(navigation.querySelectorAll('a'));
+  const links = Array.from(navigation.querySelectorAll('a[href^="#"]'))
+    .filter(link => link.hash.length > 1);
   const sections = links.map(link => document.querySelector(link.hash));
   let scheduled = false;
 
   const update = () => {
     scheduled = false;
     const offset = navigation.getBoundingClientRect().height + 32;
-    let current = -1;
+    let current = sections.length ? 0 : -1;
     sections.forEach((section, index) => {
       if (section && section.getBoundingClientRect().top <= offset) current = index;
     });

@@ -1,6 +1,6 @@
-## Services
+<h2 id="services">{{ include.services_heading | default: "Services" }}</h2>
 
-<h4 style="margin:0 10px 0;">Program Committees</h4>
+<h4 style="margin:0 10px 0;">{{ include.committees_heading | default: "Program Committees" }}</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www2026.thewebconf.org/"><autocolor>The ACM Web Conference 2026 (WWW 2026)</autocolor></a></li>

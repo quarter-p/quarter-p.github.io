@@ -19,10 +19,15 @@ url: https://quarter-p.github.io
 baseurl: ""
 lang: en-US
 og_locale: en_US
-research_interests:
-  - Cybercrime
-  - Web Application Security
-  - AI Security
+education:
+  - school: Fudan University
+    degree: Ph.D. Student
+    field: Cyberspace Security
+    period: 2023–Present
+  - school: Fudan University
+    degree: B.S.
+    field: Computer Science and Technology
+    period: 2019–2023
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -35,12 +40,12 @@ orcid: https://orcid.org/0009-0001-8088-316X
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/look.jpeg
+avatar: /assets/img/myhead.jpg
 social_image: /assets/img/look.jpeg
 social_image_width: 200
 social_image_height: 200
-favicon: ./assets/img/look-round.png
-favicon_dark: ./assets/img/look-dark.png
+favicon: /assets/img/look-round.png
+favicon_dark: /assets/img/look-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
