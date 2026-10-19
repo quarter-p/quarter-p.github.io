@@ -44,7 +44,7 @@ education:
 
 ## 关于我 {#about-me}
 
-我是**[复旦大学博士研究生](https://www.fudan.edu.cn/)**，就读于计算与智能创新学院，隶属于**[系统软件与安全实验室](https://security.fudan.edu.cn)**，师从**[杨珉教授](https://min-yang-fudan.github.io/)**、**[张源教授](https://yuanxzhang.github.io/)** 和 **[洪赓助理研究员](https://ghong.site/)**。
+我是**[复旦大学博士研究生](https://www.fudan.edu.cn/)**，就读于计算与智能创新学院，隶属于**[系统软件与安全实验室（复旦白泽）](https://security.fudan.edu.cn)**，师从**[杨珉教授](https://min-yang-fudan.github.io/)**、**[张源教授](https://yuanxzhang.github.io/)** 和 **[洪赓助理研究员](https://ghong.site/)**。
 
 我的研究兴趣主要包括 **Web 安全、网络犯罪治理与人工智能安全**。我关注真实互联网生态中新兴的安全威胁，尤其是恶意行为者如何利用 Web 平台和人工智能系统实施攻击与滥用。我的研究主要结合大规模实证测量与安全分析，探索实用的威胁检测和防御技术。
 

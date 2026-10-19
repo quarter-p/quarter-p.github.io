@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at **[Fudan University](https://www.fudan.edu.cn/en)**, where I am a member of the **[System Software and Security Lab](https://security.fudan.edu.cn)**. I am advised by **[Prof. Min Yang](https://min-yang-fudan.github.io/)**, **[Prof. Yuan Zhang](https://yuanxzhang.github.io/)**, and **[Prof. Geng Hong](https://ghong.site/)**.
+I am a Ph.D. candidate at **[Fudan University](https://www.fudan.edu.cn/en)**, where I am a member of the **[System Software and Security Lab (FDU Whitzard)](https://security.fudan.edu.cn)**. I am advised by **[Prof. Min Yang](https://min-yang-fudan.github.io/)**, **[Prof. Yuan Zhang](https://yuanxzhang.github.io/)**, and **[Prof. Geng Hong](https://ghong.site/)**.
 
 My research interests lie in **Web security, cybercrime, and AI security**. I focus on understanding emerging security threats in real-world online ecosystems, particularly how malicious actors exploit web platforms and AI-powered systems. My research combines large-scale empirical measurements with practical techniques for threat detection and mitigation.
 
