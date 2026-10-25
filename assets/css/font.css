@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url('../fonts/crimson-pro-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Crimson Pro';
+  font-style: italic;
+  font-weight: 500 600;
+  font-display: swap;
+  src: url('../fonts/crimson-pro-italic-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/ubuntu-mono-latin.woff2') format('woff2');
+}
+
+body {
+  background-color: #fff;
+  padding:0px;
+  font: 16.0px/1.5 Crimson Pro, serif; 
+  color:#595959;
+  font-weight:400;
+  margin:0
+}

@@ -1,0 +1,16 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>{{ '/' | absolute_url | xml_escape }}</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ '/' | absolute_url | xml_escape }}"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="{{ '/zh/' | absolute_url | xml_escape }}"/>
+  </url>
+  <url>
+    <loc>{{ '/zh/' | absolute_url | xml_escape }}</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{{ '/' | absolute_url | xml_escape }}"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="{{ '/zh/' | absolute_url | xml_escape }}"/>
+  </url>
+</urlset>

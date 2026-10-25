@@ -1,0 +1,13 @@
+@Article{pei24spiking,
+      title = {一种基于突变流量的在野黑产应用采集方法},
+      author = {陈沛,洪赓,邬梦莹,陈晋松,段海新,杨珉},
+      journal = {软件学报},
+      volume = {35},
+      number = {8},
+      pages = {3684},
+      numpages = {15.0000},
+      year = {2024},
+      month = {08},
+      doi = {10.13328/j.cnki.jos.007122},
+      publisher = {科学出版社}
+}
